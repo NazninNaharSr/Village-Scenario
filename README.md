@@ -13,7 +13,8 @@ Glut setup
 - go location: C:\Program Files (x86)\CodeBlocks\MinGW\lib
 , paste glut32.lib
 - go C:\Windows\SysWOW64 , paste glut32.dll
-Note: If your Operating System is 32 bit, Folder name might be
+  
+**Note:** If your Operating System is 32 bit, Folder name might be
 C:\Windows\System32
 
 # **Linker settings for Codeblocks**
